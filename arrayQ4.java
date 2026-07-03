@@ -1,3 +1,5 @@
+// find the minimum number in the array 
+
 import java.util.Scanner;
 
 public class arrayQ4 {
